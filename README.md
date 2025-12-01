@@ -1,2 +1,2 @@
 # The-blood-donation-management-system
-The Blood Donation Management 
+The Blood Donation Management System is a Python-based application that digitally manages donor information.  It uses Tkinter for a user-friendly GUI and JSON for secure data storage.  The system records important donor details like name, age, blood group, gender, contact, and location.  Features include input validation, duplicate entry etc. The objective is to create a reliable, fast, and organized digital donor database.  It reduces manual mistakes and saves time by automating the record-keeping process.  
